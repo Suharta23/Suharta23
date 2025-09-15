@@ -1,12 +1,31 @@
-- 👋 Hi, I’m @Suharta23
-- 👀 I’m interested in front end devloper
-- 🌱 I’m currently learning react js
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Halo, saya Suharta23  
 
-<!---
-Suharta23/Suharta23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 **Front-End Developer Enthusiast** | 🌱 Saat ini sedang fokus belajar **React.js**  
+
+---
+
+## 👀 Tentang Saya
+- 🚀 Tertarik dengan dunia **Front-End Development** dan pembuatan UI/UX yang interaktif.  
+- 📚 Sedang mendalami **React.js**, **JavaScript**, dan teknologi web modern.  
+- 🤝 Terbuka untuk berkolaborasi dalam project open-source maupun project belajar bersama.  
+
+---
+
+## 🌟 Keahlian & Minat
+- 🎨 HTML | CSS | JavaScript  
+- ⚛️ React.js (sedang dalam perjalanan belajar)  
+- 🎯 Minat khusus: Responsive Design & User Experience  
+
+---
+
+## 💬 Mari Terhubung
+- 📫 Email: **suharta64@guru.smk.belajar.id**  
+- 🔗 LinkedIn : **www.linkedin.com/in/suharta**  
+
+---
+
+## ⚡ Fun Fact
+Saya percaya bahwa *belajar coding itu seperti merangkai puzzle* — semakin sabar, semakin jelas gambarnya 😊  
+
+---
+✨ "Belajar itu asyik, terus berkembang setiap hari!" ✨
