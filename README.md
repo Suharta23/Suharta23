@@ -13,11 +13,17 @@
 
 ## 🌟 Keahlian & Minat
 -🎨 HTML | CSS | JavaScript
+
 -🐘 PHP
+
 -⚛️ React.js (sedang dalam perjalanan belajar)
+
 -⚙️ Bootstrap
+
 -✍️ Minat khusus: Menulis Prompt AI
+
 -🎯 Minat umum: Responsive Design & User Experience 
+
 
 ---
 
